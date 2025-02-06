@@ -198,6 +198,18 @@ const useStyles = makeStyles((theme, mobile) => ({
     right: 10, // Adjust the right value as needed
     cursor: 'pointer',
   },
+  footerContainer: {
+    background: theme.palette.success.dark,
+    width: "100%",
+  },
+  footerWrapper: {
+    backgroundColor: theme.palette.primary.main,
+    width: "90%",
+    display: "flex",
+    marginLeft: "auto",
+    borderTopLeftRadius: "5rem",
+    borderBottomLeftRadius: "5rem",
+  },
 }));
 
 export default useStyles;

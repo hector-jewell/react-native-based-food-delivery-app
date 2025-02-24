@@ -73,7 +73,7 @@
     "react-scripts": "^4.0.0",
     "sass": "^1.77.6",
     "source-map-explorer": "^2.5.2",
-    "styled-components": "^5.1.1",
+    "styled-components": "^6.1.15",
     "subscriptions-transport-ws": "^0.11.0",
     "validate.js": "^0.12.0"
   },

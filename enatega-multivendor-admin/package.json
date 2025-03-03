@@ -75,7 +75,7 @@
     "source-map-explorer": "^2.5.2",
     "styled-components": "^5.1.1",
     "subscriptions-transport-ws": "^0.11.0",
-    "validate.js": "^0.12.0"
+    "validate.js": "^0.13.1"
   },
   "devDependencies": {
     "@types/googlemaps": "3.30.18",

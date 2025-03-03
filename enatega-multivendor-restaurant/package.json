@@ -94,7 +94,7 @@
     "husky": "^4.2.5",
     "lint-staged": "^10.2.7",
     "prettier": "2.0.5",
-    "prettier-config-standard": "^1.0.1"
+    "prettier-config-standard": "^7.0.0"
   },
   "private": true
 }

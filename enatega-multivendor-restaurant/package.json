@@ -46,7 +46,7 @@
     "@use-expo/font": "^2.0.0",
     "expo": "~51.0.19",
     "expo-av": "~14.0.6",
-    "expo-constants": "~16.0.2",
+    "expo-constants": "~17.0.7",
     "expo-device": "~6.0.2",
     "expo-localization": "~15.0.3",
     "expo-notifications": "~0.28.9",

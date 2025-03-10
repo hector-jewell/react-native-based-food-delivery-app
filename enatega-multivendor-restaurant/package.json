@@ -51,7 +51,7 @@
     "expo-localization": "~15.0.3",
     "expo-notifications": "~0.28.9",
     "expo-print": "~13.0.1",
-    "expo-secure-store": "~13.0.2",
+    "expo-secure-store": "~14.0.1",
     "expo-status-bar": "~1.12.1",
     "expo-updates": "~0.25.18",
     "graphql": "^15.6.1",

@@ -53,7 +53,7 @@
     "deprecated-react-native-prop-types": "^5.0.0",
     "expo": "~50.0.15",
     "expo-apple-authentication": "~6.3.0",
-    "expo-application": "~5.8.3",
+    "expo-application": "~6.0.2",
     "expo-auth-session": "~5.4.0",
     "expo-constants": "~15.4.5",
     "expo-crypto": "~12.8.1",

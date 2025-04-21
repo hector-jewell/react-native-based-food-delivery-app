@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@apollo/client": "^3.5.8",
-    "@expo/config-plugins": "~8.0.0",
+    "@expo/config-plugins": "~9.0.17",
     "@react-native-async-storage/async-storage": "1.23.1",
     "@react-native-community/masked-view": "0.1.11",
     "@react-navigation/bottom-tabs": "^6.2.0",

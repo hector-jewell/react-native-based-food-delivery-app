@@ -74,7 +74,7 @@
     "expo-web-browser": "~12.8.2",
     "graphql": "^16.8.1",
     "graphql-tag": "^2.10.1",
-    "i18n-js": "^4.3.2",
+    "i18n-js": "^4.5.1",
     "i18next": "^23.7.6",
     "install": "^0.13.0",
     "lottie-react-native": "6.5.1",

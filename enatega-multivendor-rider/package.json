@@ -46,7 +46,7 @@
     "@types/react": "~18.2.79",
     "deprecated-react-native-prop-types": "^4.0.0",
     "expo": "~51.0.19",
-    "expo-application": "~5.9.1",
+    "expo-application": "~6.1.4",
     "expo-av": "~14.0.6",
     "expo-camera": "~15.0.13",
     "expo-constants": "~16.0.2",

@@ -55,7 +55,7 @@
     "apollo-boost": "^0.4.9",
     "chart.js": "^3.6.0",
     "env-cmd": "^10.1.0",
-    "firebase": "^9.4.0",
+    "firebase": "^11.7.1",
     "graphql": "^15.0.0",
     "husky": "^8.0.3",
     "i18next": "^17.0.0",

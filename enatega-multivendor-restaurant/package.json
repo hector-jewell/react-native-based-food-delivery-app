@@ -47,7 +47,7 @@
     "expo": "~51.0.19",
     "expo-av": "~14.0.6",
     "expo-constants": "~16.0.2",
-    "expo-device": "~6.0.2",
+    "expo-device": "~7.1.4",
     "expo-localization": "~15.0.3",
     "expo-notifications": "~0.28.9",
     "expo-print": "~13.0.1",

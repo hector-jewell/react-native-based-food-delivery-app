@@ -60,7 +60,7 @@
     "lottie-react-native": "6.7.0",
     "moment": "^2.29.1",
     "patch-package": "^6.2.2",
-    "react": "18.2.0",
+    "react": "19.1.0",
     "react-dom": "18.2.0",
     "react-i18next": "^13.5.0",
     "react-native": "0.74.3",

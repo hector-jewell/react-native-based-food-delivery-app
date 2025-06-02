@@ -45,7 +45,7 @@
     "@sentry/react-native": "~5.22.0",
     "@use-expo/font": "^2.0.0",
     "expo": "~51.0.19",
-    "expo-av": "~14.0.6",
+    "expo-av": "~15.1.4",
     "expo-constants": "~16.0.2",
     "expo-device": "~6.0.2",
     "expo-localization": "~15.0.3",

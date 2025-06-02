@@ -47,7 +47,7 @@
     "@material-ui/lab": "^4.0.0-alpha.61",
     "@mui/icons-material": "^5.8.3",
     "@mui/material": "^5.8.3",
-    "@mui/styles": "^5.8.3",
+    "@mui/styles": "^6.4.12",
     "@react-google-maps/api": "^2.0.0",
     "@sentry/react": "^6.16.1",
     "@sentry/tracing": "^6.16.1",

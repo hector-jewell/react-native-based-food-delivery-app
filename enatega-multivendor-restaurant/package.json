@@ -39,7 +39,7 @@
     "@react-native-community/masked-view": "0.1.11",
     "@react-navigation/bottom-tabs": "^6.2.0",
     "@react-navigation/drawer": "^6.3.1",
-    "@react-navigation/material-top-tabs": "^5.3.19",
+    "@react-navigation/material-top-tabs": "^7.2.15",
     "@react-navigation/native": "^6.0.8",
     "@react-navigation/native-stack": "^6.5.0",
     "@sentry/react-native": "~5.22.0",

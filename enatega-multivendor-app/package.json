@@ -68,7 +68,7 @@
     "expo-notifications": "~0.27.5",
     "expo-random": "~13.6.0",
     "expo-splash-screen": "~0.26.4",
-    "expo-system-ui": "~2.9.3",
+    "expo-system-ui": "~5.0.9",
     "expo-tracking-transparency": "~5.1.1",
     "expo-updates": "~0.24.10",
     "expo-web-browser": "~12.8.2",

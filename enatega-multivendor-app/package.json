@@ -59,7 +59,7 @@
     "expo-crypto": "~12.8.1",
     "expo-dev-client": "^3.3.8",
     "expo-device": "~5.9.3",
-    "expo-font": "~11.10.2",
+    "expo-font": "~13.3.2",
     "expo-image-picker": "~14.7.1",
     "expo-linear-gradient": "^12.7.2",
     "expo-linking": "~6.2.2",

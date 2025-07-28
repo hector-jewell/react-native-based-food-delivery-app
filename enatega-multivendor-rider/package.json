@@ -93,7 +93,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.24.0",
-    "@expo/metro-config": "~0.18.1",
+    "@expo/metro-config": "~0.20.17",
     "babel-preset-expo": "~11.0.0",
     "eslint": "^7.1.0",
     "eslint-config-standard": "^14.1.1",

@@ -67,7 +67,7 @@
     "react-native-countdown-component": "^2.7.1",
     "react-native-elements": "^3.4.2",
     "react-native-flash-message": "^0.1.21",
-    "react-native-gesture-handler": "~2.16.1",
+    "react-native-gesture-handler": "~2.27.2",
     "react-native-keyboard-aware-scroll-view": "^0.9.5",
     "react-native-material-textfield": "^0.16.1",
     "react-native-reanimated": "~3.10.1",

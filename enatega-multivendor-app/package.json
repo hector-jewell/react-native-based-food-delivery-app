@@ -126,7 +126,7 @@
     "metro-react-native-babel-preset": "^0.77.0",
     "prettier": "^3.5.2",
     "prettier-config-standard": "^7.0.0",
-    "react-test-renderer": "^18.2.0"
+    "react-test-renderer": "^19.1.1"
   },
   "private": true
 }

@@ -40,7 +40,7 @@
     "not op_mini all"
   ],
   "dependencies": {
-    "@apollo/client": "^3.5.8",
+    "@apollo/client": "^4.0.7",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
     "@material-ui/core": "^4.12.4",

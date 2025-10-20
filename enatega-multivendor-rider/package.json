@@ -60,7 +60,7 @@
     "expo-splash-screen": "~0.27.5",
     "expo-status-bar": "~1.12.1",
     "expo-task-manager": "~11.8.2",
-    "expo-updates": "~0.25.18",
+    "expo-updates": "~29.0.12",
     "graphql": "^15.8.0",
     "i18n-js": "^3.7.1",
     "i18next": "^23.7.6",

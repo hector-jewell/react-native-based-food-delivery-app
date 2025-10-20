@@ -53,7 +53,7 @@
     "expo-print": "~13.0.1",
     "expo-secure-store": "~13.0.2",
     "expo-status-bar": "~1.12.1",
-    "expo-updates": "~0.25.18",
+    "expo-updates": "~29.0.12",
     "graphql": "^15.6.1",
     "i18n": "^0.14.1",
     "i18next": "^23.7.6",

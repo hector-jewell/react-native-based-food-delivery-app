@@ -34,7 +34,7 @@
     ]
   },
   "dependencies": {
-    "@amplitude/analytics-react-native": "^1.4.7",
+    "@amplitude/analytics-react-native": "^1.5.16",
     "@apollo/client": "^3.5.6",
     "@babel/plugin-transform-object-rest-spread": "^7.23.4",
     "@babel/plugin-transform-optional-catch-binding": "^7.23.4",

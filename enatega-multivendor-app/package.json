@@ -70,7 +70,7 @@
     "expo-splash-screen": "~0.26.4",
     "expo-system-ui": "~2.9.3",
     "expo-tracking-transparency": "~5.1.1",
-    "expo-updates": "~0.24.10",
+    "expo-updates": "~29.0.16",
     "expo-web-browser": "~12.8.2",
     "graphql": "^16.8.1",
     "graphql-tag": "^2.10.1",
